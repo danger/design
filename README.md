@@ -4,7 +4,7 @@ Design Work and Media Kit, licensed as MIT by Orta Therox.
 
 ### Fonts
 
-The key font is [Prodotto In Cina](http://www.dafont.com/prodotto-in-cina.font), which is available for free here.
+The key font is [Prodotto In Cina](http://www.dafont.com/prodotto-in-cina.font), which is available [for free here](http://www.dafont.com/prodotto-in-cina.font).
 
 ### Images
 
@@ -12,8 +12,13 @@ The key font is [Prodotto In Cina](http://www.dafont.com/prodotto-in-cina.font),
 
 ### Logos
 
+White on Green:
 ![Danger Logo @2x](images/danger_logo_@2x.png)
+
+White on Transparent:
 ![Danger Logo White@2x](images/danger_logo_white@2x.png)
+
+Black on Transparent:
 ![Danger Logo Black@2x](images/danger_logo_black@2x.png)
 
 ### Square Logo
