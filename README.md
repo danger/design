@@ -19,3 +19,7 @@ The key font is [Prodotto In Cina](http://www.dafont.com/prodotto-in-cina.font),
 ### Square Logo
 
 ![Danger Square Logo@2x](images/danger_square_logo@2x.png)
+
+### Fancy moving BG
+
+![Danger Square Logo@2x](images/danger_square_logo@2x.png)
