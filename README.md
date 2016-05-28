@@ -22,4 +22,4 @@ The key font is [Prodotto In Cina](http://www.dafont.com/prodotto-in-cina.font),
 
 ### Fancy moving BG
 
-![Danger Square Logo@2x](images/danger_square_logo@2x.png)
+![Danger Moving Bg](images/danger_moving_bg.gif)
