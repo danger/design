@@ -27,4 +27,4 @@ Black on Transparent:
 
 ### Fancy moving BG
 
-![Danger Moving Bg](images/danger_moving_bg.gif)
+![Danger Moving Bg](images/danger_moving_bg.gif)![Danger Moving Bg](images/danger_moving_bg.gif)![Danger Moving Bg](images/danger_moving_bg.gif)![Danger Moving Bg](images/danger_moving_bg.gif)![Danger Moving Bg](images/danger_moving_bg.gif)
