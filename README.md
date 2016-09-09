@@ -1,10 +1,10 @@
 # danger design
 
-Design Work and Media Kit, licensed as MIT by Orta Therox.
+Design Work and Media Kit, licensed as MIT by Orta Therox. Except the Prodotto In Cina font, which isn't mine and comes with it's own weird README/LICENSE.
 
 ### Fonts
 
-The key font is [Prodotto In Cina](http://www.dafont.com/prodotto-in-cina.font), which is available [for free here](http://www.dafont.com/prodotto-in-cina.font).
+The key font is [Prodotto In Cina](http://www.dafont.com/prodotto-in-cina.font), which is available [for free here](http://www.dafont.com/prodotto-in-cina.font). It is also embedded inside this repo in the [fonts](fonts/) folder.
 
 ### Images
 
@@ -24,6 +24,10 @@ Black on Transparent:
 ### Square Logo
 
 ![Danger Square Logo@2x](images/danger_square_logo@2x.png)
+
+### Keynote file
+
+The keynote file for this ["Danger in 15m" talk](https://speakerdeck.com/orta/danger-in-15m) is inside the [keynote](keynote/). It's not perfect,  it wasn't made for sharing initially, and it might be out of date. However, if you improve the template I'd love a PR improving it. 
 
 ### Fancy moving BG
 
