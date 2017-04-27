@@ -12,23 +12,23 @@ The keynote file for this ["Danger in 15m" talk](https://speakerdeck.com/orta/da
 
 ### Images
 
-![Danger Hero Shot@2x](images/danger_hero_shot@2x.png)
+![Danger Hero Shot@2x](js/images/danger_hero_shot@2x.png)
 
 ### Logos
 
 White on Green:
-![Danger Logo @2x](images/danger_logo_@2x.png)
+![Danger Logo @2x](js/images/danger_logo_@2x.png)
 
 White on Transparent:
-![Danger Logo White@2x](images/danger_logo_white@2x.png)
+![Danger Logo White@2x](js/images/danger_logo_white@2x.png)
 
 Black on Transparent:
-![Danger Logo Black@2x](images/danger_logo_black@2x.png)
+![Danger Logo Black@2x](js/images/danger_logo_black@2x.png)
 
 ### Square Logo
 
-![Danger Square Logo@2x](images/danger_square_logo@2x.png)
+![Danger Square Logo@2x](js/images/danger_square_logo@2x.png)
 
 ### Fancy moving BG
 
-![Danger Moving Bg](images/danger_moving_bg.gif)
+![Danger Moving Bg](js/images/danger_moving_bg.gif)
