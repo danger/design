@@ -16,6 +16,11 @@ from the twitter bot [CloudyConway](https://twitter.com/CloudyConway/) by [Vexor
 
 ![Danger Logo @2x](js/images/danger-tagline.png)
 
+and without a tagline, in a higher quality
+
+![Danger Logo @2x](js/images/danger-logo-hero.png)
+
+
 Also, here are a series of logos that I've enjoyed:
 
 ![Danger Logo @2x](js/images/logo1.png)
