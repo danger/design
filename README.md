@@ -53,7 +53,7 @@ The key font is [Prodotto In Cina](http://www.dafont.com/prodotto-in-cina.font),
 
 ### Keynote file
 
-The keynote file for this ["Danger in 15m" talk](https://speakerdeck.com/orta/danger-in-15m) is inside the [keynote](ruby/keynote/). It's not perfect,  it wasn't made for sharing initially, and it might be out of date. However, if you improve the template I'd love a PR improving it. 
+The keynote file for this ["Danger in 15m" talk](https://speakerdeck.com/orta/danger-in-15m) is inside the [keynote](keynote/). It's not perfect,  it wasn't made for sharing initially, and it might be out of date. However, if you improve the template I'd love a PR improving it. 
 
 ### Images
 
