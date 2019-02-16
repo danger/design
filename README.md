@@ -20,7 +20,6 @@ and without a tagline, in a higher quality
 
 ![Danger Logo @2x](js/images/danger-logo-hero.png)
 
-
 Also, here are a series of logos that I've enjoyed:
 
 ![Danger Logo @2x](js/images/logo1.png)
@@ -30,7 +29,17 @@ Also, here are a series of logos that I've enjoyed:
 ![Danger Logo @2x](js/images/logo3.png)
 
 
-You're welcome to also use the current logo from the homepage, http://danger.systems/js/ - the URL is cache busted so I can't link it here.
+You're welcome to also use the current logo from the homepage, http://danger.systems/js/ and download to re-use.
+
+On the other hand, if you just want a hosted Danger JS Logo, this URL:
+
+```
+http://danger.systems/images/js/danger-logo-hero-cachable@2x.png
+```
+
+You have no guarantee what this image will look like in the future, so that's fun ;)
+
+![Danger Logo without custom cachbusting](http://danger.systems/images/js/danger-logo-hero-cachable@2x.png)
 
 I dont have a square logo yet.
 
@@ -44,7 +53,7 @@ The key font is [Prodotto In Cina](http://www.dafont.com/prodotto-in-cina.font),
 
 ### Keynote file
 
-The keynote file for this ["Danger in 15m" talk](https://speakerdeck.com/orta/danger-in-15m) is inside the [keynote](ruby/keynote/). It's not perfect,  it wasn't made for sharing initially, and it might be out of date. However, if you improve the template I'd love a PR improving it. 
+The keynote file for this ["Danger in 15m" talk](https://speakerdeck.com/orta/danger-in-15m) is inside the [keynote](keynote/). It's not perfect,  it wasn't made for sharing initially, and it might be out of date. However, if you improve the template I'd love a PR improving it. 
 
 ### Images
 
